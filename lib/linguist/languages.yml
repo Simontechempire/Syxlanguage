@@ -1,0 +1,7 @@
+SYX:
+  type: programming
+  color: "#6E56CF"
+  extensions:
+    - ".syx"
+  tm_scope: source.syx
+  ace_mode: text
