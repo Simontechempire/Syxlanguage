@@ -1,0 +1,9 @@
+# SYX variables
+
+name = "Simon"
+language = "SYX"
+version = "1.0"
+
+say name
+say language
+say version
