@@ -1,0 +1,9 @@
+# SYX conditions
+
+age = 16
+
+if age >= 13 {
+    say "Allowed"
+} else {
+    say "Not allowed"
+}
