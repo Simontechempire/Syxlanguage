@@ -1,0 +1,11 @@
+# SYX program
+
+name = "Simon"
+age = 16
+
+say "Hello from SYX!"
+say name
+
+if age >= 13 {
+    say "SYX is running!"
+}
